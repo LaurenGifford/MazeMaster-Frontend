@@ -18,6 +18,9 @@ The goal is to collect as many coins as they can as quickly as possible without 
 3. In the terminal run `rails db:seed` to seed the database 
 4. Run `rails s` to start up a server listening on localhost:3000
 5. Finally, open `index.html` in browser to play the game
+6. If you would prefer to skip the setup and directly view a running version, please checkout the deployed app on Netlify! 
+https://mazemaster.netlify.app/
+
 
 ### Next Steps
 In subsequent versions of this app, we will create a wider selection of game play boards.
